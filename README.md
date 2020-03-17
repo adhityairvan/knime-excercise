@@ -14,3 +14,13 @@
 4. Writing to DB
   description: after excercise 3, modify the workflow a little bit to save the original data and the resulting model
   ![](https://github.com/adhityairvan/knime-excercise/raw/master/Annotation%202020-03-18%20001354.jpg)
+
+## Hadoop Excercise
+### Required program
+* Spark
+  https://medium.com/big-data-engineering/how-to-install-apache-spark-2-x-in-your-pc-e2047246ffc3
+* Hive
+  https://www.solutionmandi.com/2018/11/hive-installation-on-windows-10.html
+### Excercise
+1. Hive table create
+  description: create local big data environement using spark and hive. read the table, and write the datainto hive table
