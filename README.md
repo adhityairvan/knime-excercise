@@ -24,3 +24,12 @@
 ### Excercise
 1. Hive table create
   description: create local big data environement using spark and hive. read the table, and write the datainto hive table
+  ![](https://github.com/adhityairvan/knime-excercise/raw/master/Annotation%202020-03-18%20062236.jpg)
+  ![](https://github.com/adhityairvan/knime-excercise/raw/master/Annotation%202020-03-18%20064554.jpg)
+2. Hive Modeling
+  description: create descision tree model using data from hive table
+  ![](https://github.com/adhityairvan/knime-excercise/raw/master/Annotation%202020-03-18%20064820.jpg)
+3. Hive Writing
+  description : Write the result of decision tree to a new table on hive
+  ![](https://github.com/adhityairvan/knime-excercise/raw/master/Annotation%202020-03-18%20064358.jpg)
+  ![](https://github.com/adhityairvan/knime-excercise/raw/master/Annotation%202020-03-18%20064521.jpg)
